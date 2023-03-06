@@ -1,1 +1,3 @@
 # 30DaysOfHLSL
+
+HLSL (High-Level Shader Language) is a programming language used to write shaders for graphics processing units (GPUs). It was developed by Microsoft as part of its DirectX API (Application Programming Interface) for Windows. HLSL allows developers to write shader code that defines how to render 3D graphics on a GPU, including the color, lighting, and shading effects of a scene. With HLSL, developers can create complex graphical effects and optimize performance by controlling how the GPU processes graphics data. The language is often used in video game development and other applications that require advanced 3D graphics.
